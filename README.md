@@ -23,12 +23,6 @@ This repository contains the **HotelManzana** (or **HotelCodable**) project, dev
 - **UIKit**
 - **Xcode**
 
-## Screenshots
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-18 at 20 36 11](https://github.com/user-attachments/assets/ebb103f0-f30a-47b4-ab4b-36407a2f9c01)
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-18 at 20 36 18](https://github.com/user-attachments/assets/d18753ad-eabf-428c-bc87-4b74e1f07da6)
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-18 at 20 36 47](https://github.com/user-attachments/assets/c9fb4b33-7ba7-4f63-ba45-794942aad2ea)
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-18 at 20 36 53](https://github.com/user-attachments/assets/33190c5e-1271-49b0-a6f0-4ee2bea13133)
-
 
 ## How to Run
 
