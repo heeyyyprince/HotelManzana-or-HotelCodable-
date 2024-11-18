@@ -28,4 +28,5 @@ This repository contains the **HotelManzana** (or **HotelCodable**) project, dev
 
 1. Clone the repository:
    ```bash
+   https://github.com/heeyyyprince/HotelManzana-or-HotelCodable-
   
